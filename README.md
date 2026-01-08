@@ -1,5 +1,12 @@
 # 🎮 Roll-a-Ball — Unity Mini Game (AI + Physics)
-# 🎮 Roll-a-Ball — Unity Mini Game (AI + Physics)
+<p align="center">
+  <img src="pictureofgameplay\img14.png" width="45%" />
+  <img src="pictureofgameplay\img12.png" width="45%" />
+</p>
+<p align="center">
+  <img src="pictureofgameplay\img13.png" width="45%" />
+  <img src="pictureofgameplay\img16.png" width="45%" />
+</p>
 
 A polished **Roll-a-Ball mini game** developed using **Unity 2022 (LTS)**, showcasing essential game-development principles such as **physics-based movement, NavMesh-driven AI, collision layering, and clean UI state management**.
 
